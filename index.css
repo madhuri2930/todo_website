@@ -1,0 +1,80 @@
+.main-heading{
+    font-size: 50px;
+    font-family: roboto;
+}
+.CreateText{
+    font-family: roboto;
+}
+.inputfield{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+.spanText{
+    font-weight: bold;
+}
+.MyText{
+    font-weight: bold;
+}
+#listElement{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.addBtn{
+    font-size: 18px;
+    padding: 4px 20px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    outline: none;border: none;
+    font-size: 24px;
+    font-family: roboto;
+    margin-bottom: 45px;
+}
+.myText{
+    font-family: roboto;
+}
+.labelContainer{
+    background-color: #e6f6ff;
+    border-radius: 5px;
+    border-left: 5px solid blue;
+    width: 100%;
+    padding: 7px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.labelText{
+    font-size: 23px;
+    font-family: roboto;
+    font-weight: 500;
+}
+.delete-icon{
+    font-size: 21px;
+    margin-right: 9px;
+    margin-top: 7px;
+}
+.checkBox{
+    width: 21px;
+    height: 21px;
+    margin-top: 15px;
+}
+.listItem{
+    margin-bottom: 20px;
+}
+.checked{
+    text-decoration: line-through;
+}
+.saveBtn{
+    font-size: 18px;
+    padding: 4px 20px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    outline: none;border: none;
+    font-size: 24px;
+    font-family: roboto;
+    margin-bottom: 45px;
+    margin-left: 37px;
+}
